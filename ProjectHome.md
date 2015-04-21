@@ -1,0 +1,1 @@
+I love this project.  I am open sourcing the code because craigslist won't let me put adsense ads on it.  I hope the RequestDispatcher.cs class is really useful to people working on the parallelization of web applications written in c#.
